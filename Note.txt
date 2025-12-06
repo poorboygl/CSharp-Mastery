@@ -8,4 +8,5 @@ git push origin +main
 6.Expert
 https://www.facebook.com/CodingWithRedi
 
-6.Expert-CQRS + EVENT SOURCING BANK ACCOUNT DEMO (ICommand, ICommandHandler, IQuery, and IQueryHandler)
+6.Expert-lesson124-CQRS + EVENT SOURCING BANK ACCOUNT DEMO (ICommand, ICommandHandler, IQuery, and IQueryHandler)
+6.Expert-lesson127-Event-Driven Architecture (EDA) + Pub/Sub message broker
