@@ -5,4 +5,7 @@ git push origin +main
 2.Intermediate and Advanced Intermediate
 3.OOP
 4.Super Advanced
+6.Expert
 https://www.facebook.com/CodingWithRedi
+
+6.Expert-CQRS + EVENT SOURCING BANK ACCOUNT DEMO (ICommand, ICommandHandler, IQuery, and IQueryHandler)
